@@ -1,26 +1,38 @@
-Coffee Shop Sales Analysis & Interactive Excel Dashboard
+# Coffee Shop Sales Analysis
 
-I analyzed coffee shop sales data using Microsoft Excel to identify sales trends, top-performing stores, product categories, best-selling products, peak sales hours, and weekly sales patterns.
-The project includes data analysis, Pivot Tables, KPI calculations, charts, and an interactive dashboard designed to present key business insights clearly.
+## Project Overview
 
-Key KPIs
-Total Revenue: 698,812.33
-Total Transactions: 149,116
-Total Quantity Sold: 214,470
-Average Transaction Value: 4.69
+This project analyzes coffee shop sales transaction data using Microsoft Excel.
 
-Key Insights
-June recorded the highest monthly revenue.
-Hell's Kitchen was the top-performing store.
-Coffee was the highest-revenue product category.
-Earl Grey Rg was the top-selling product by quantity.
-10:00 AM was the peak sales hour.
-Monday recorded the highest daily revenue.
+The goal is to understand sales performance and identify patterns across products, categories, stores, dates, weekdays, and sales hours.
 
-Tools Used
-Microsoft Excel
-Pivot Tables
-Excel Charts
-Data Analysis
-Dashboard Design
+## Tools Used
 
+- Microsoft Excel
+- Pivot Tables
+- Power Query
+- Excel Charts
+- Slicers
+
+## Analysis
+
+The analysis covers:
+
+- Total Revenue
+- Total Sales Quantity
+- Number of Transactions
+- Revenue by Month
+- Revenue by Store
+- Revenue by Product Category
+- Top Products by Quantity
+- Revenue by Hour
+- Revenue by Weekday
+
+## Dashboard
+
+![Coffee Shop Sales Dashboard](Coffee_Shop_Dashboard.png)
+
+## Project Files
+
+- `Coffee_Shop_Sales_Analysis.xlsx` — Excel analysis and dashboard
+- `Coffee_Shop_Dashboard.png` — Dashboard preview
