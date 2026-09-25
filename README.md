@@ -29,8 +29,7 @@ The analysis covers:
 - Revenue by Weekday
 
 ## Dashboard
-
-Screenshot 2026-08-30 134900.png
+![Coffee Shop Sales Dashboard](Screenshot%202026-08-30%20134900.png)
 
 ## Project Files
 
