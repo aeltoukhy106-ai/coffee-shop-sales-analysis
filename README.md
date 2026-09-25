@@ -30,7 +30,7 @@ The analysis covers:
 
 ## Dashboard
 
-![Coffee Shop Sales Dashboard](Screenshot 2026-08-30 134900.png)
+Screenshot 2026-08-30 134900.png
 
 ## Project Files
 
